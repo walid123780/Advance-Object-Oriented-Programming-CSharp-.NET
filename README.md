@@ -26,7 +26,5 @@ Welcome to the **C# OOP Beginner to Advanced** course repository. This project i
 - Advanced Topics: Reflection, Extension Methods, Partial Classes
 - Mini Projects: Bank System, Student Manager, E-commerce System
 
----
 
-## 📁 Folder Structure
 
